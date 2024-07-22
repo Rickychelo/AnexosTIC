@@ -10,8 +10,8 @@ const int dry = 700; // value for dry sensor
 const int wet = 300; // value for wet sensor
 
 // Variables de conexión WiFi
-const char* ssid = "SmartLab";
-const char* password = "D5cy6$3y)5&$wT$7ry";
+const char* ssid = "***********";
+const char* password = "***********";
 
 // Variables de conexión MQTT
 const char* mqtt_server = "192.168.0.18"; // Dirección IP del servidor MQTT
