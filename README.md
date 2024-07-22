@@ -28,3 +28,6 @@ El extractor de aire es utilizado para regular el flujo de oxígeno y CO2 dentro
 
 ### Electroválvula
 La electroválvula permite el control automático del sistema de riego, ajustando el suministro de agua a las necesidades específicas de las plantas.
+
+
+# Made by Ricardinho30!
