@@ -15,8 +15,8 @@ float co2;
 
 
 // Variables de conexión WiFi
-const char* ssid = "Dlink";
-const char* password = "FRODO2014";
+const char* ssid = "***********";
+const char* password = "***********";
 
 // Variables de conexión MQTT
 const char* mqtt_server = "192.168.0.24"; // Dirección IP del servidor MQTT
