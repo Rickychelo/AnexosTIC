@@ -13,8 +13,8 @@ OneWire oneWire(oneWireBus);
 DallasTemperature sensors(&oneWire);
 
 // Variables de conexión WiFi
-const char* ssid = "CNT_FLIA_LUZURIAGA";
-const char* password = "1103048649-ML";
+const char* ssid = "***********";
+const char* password = "***********";
 
 // Variables de conexión MQTT
 const char* mqtt_server = "192.168.0.18"; // Dirección IP del servidor MQTT
